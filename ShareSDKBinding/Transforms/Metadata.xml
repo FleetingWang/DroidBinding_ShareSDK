@@ -1,0 +1,36 @@
+<metadata>
+  <remove-node path="/api/package[@name='cn.sharesdk.sina.weibo']" />
+  <remove-node path="/api/package[@name='cn.sharesdk.system.email']" />
+  <remove-node path="/api/package[@name='cn.sharesdk.system.text']" />
+  <remove-node path="/api/package[@name='cn.sharesdk.tencent.qq']" />
+  <remove-node path="/api/package[@name='cn.sharesdk.tencent.qzone']" />
+  <remove-node path="/api/package[@name='cn.sharesdk.wechat.favorite']" />
+  <remove-node path="/api/package[@name='cn.sharesdk.wechat.friends']" />
+  <remove-node path="/api/package[@name='cn.sharesdk.wechat.moments']" />
+  <!--<attr path="/api/package[@name='cn.sharesdk.system.text']/class[@name='ShortMessage']/method[@name='getPlatformId' and count(parameter)=0]" name="visibility">protected</attr>
+  <attr path="/api/package[@name='cn.sharesdk.system.email']/class[@name='Email']/method[@name='getPlatformId' and count(parameter)=0]" name="visibility">protected</attr>
+  <attr path="/api/package[@name='cn.sharesdk.tencent.qzone']/class[@name='QZone']/method[@name='getPlatformId' and count(parameter)=0]" name="visibility">protected</attr>
+  <attr path="/api/package[@name='cn.sharesdk.tencent.qq']/class[@name='QQ']/method[@name='getPlatformId' and count(parameter)=0]" name="visibility">protected</attr>
+  <attr path="/api/package[@name='cn.sharesdk.wechat.friends']/class[@name='Wechat']/method[@name='getPlatformId' and count(parameter)=0]" name="visibility">protected</attr>
+  <attr path="/api/package[@name='cn.sharesdk.wechat.moments']/class[@name='WechatMoments']/method[@name='getPlatformId' and count(parameter)=0]" name="visibility">protected</attr>
+  <attr path="/api/package[@name='cn.sharesdk.wechat.favorite']/class[@name='WechatFavorite']/method[@name='getPlatformId' and count(parameter)=0]" name="visibility">protected</attr>-->
+
+  <remove-node path="/api/package[@name='cn.sharesdk.framework.authorize']" />
+  <remove-node path="/api/package[@name='com.mob.commons.appcollector']" />
+  <remove-node path="/api/package[@name='com.mob.commons.authorize']" />
+  <remove-node path="/api/package[@name='com.mob.commons.deviceinfo']" />
+  <remove-node path="/api/package[@name='com.mob.commons.eventrecoder']" />
+  <remove-node path="/api/package[@name='com.mob.commons']" />
+  <remove-node path="/api/package[@name='com.mob.commons.iosbridge']" />
+  <remove-node path="/api/package[@name='com.mob.commons.logcollector']" />
+  <remove-node path="/api/package[@name='com.mob.tools']" />
+  <remove-node path="/api/package[@name='com.mob.tools.gui']" />
+  <remove-node path="/api/package[@name='com.mob.tools.log']" />
+  <remove-node path="/api/package[@name='com.mob.tools.network']" />
+  <remove-node path="/api/package[@name='com.mob.tools.utils']" />
+  <remove-node path="/api/package[@name='com.sina.sso']" />
+  <remove-node path="/api/package[@name='com.sina.weibo.sdk.api']" />
+  
+  <remove-node path="/api/package[@name='cn.sharesdk.framework']/class[@name='CustomPlatform']/method[@name='checkAuthorize' and count(parameter)=2 and parameter[1][@type='int'] and parameter[2][@type='java.lang.Object']]" />
+  <attr path="/api/package[@name='cn.sharesdk.wechat.utils']/class[@name='WXMediaMessage']/field[@name='mediaObject']" name="managedName">Media</attr>
+</metadata>
