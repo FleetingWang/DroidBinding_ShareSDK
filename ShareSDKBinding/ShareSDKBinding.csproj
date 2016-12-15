@@ -12,7 +12,7 @@
     <RootNamespace>ShareSDKBinding</RootNamespace>
     <AssemblyName>ShareSDKBinding</AssemblyName>
     <FileAlignment>512</FileAlignment>
-    <Java7DocPaths>ApiDoc</Java7DocPaths>
+    <Java7DocPaths>..\ApiDoc</Java7DocPaths>
     <AndroidUseLatestPlatformSdk>True</AndroidUseLatestPlatformSdk>
     <TargetFrameworkVersion>v6.0</TargetFrameworkVersion>
   </PropertyGroup>
