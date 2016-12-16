@@ -94,7 +94,7 @@ namespace OneKeyShareSample
             // 在九宫格设置自定义的图标
             Bitmap logo = BitmapFactory.DecodeResource(context.Resources, Resource.Drawable.ic_launcher);
             String label = "ShareSDK";
-            var listener = new CustomOnClickListener();
+            var listener = new CustomOnClickListener(context);
             oks.SetCustomerLogo(logo, label, listener);
 
 		    // 为EditPage设置一个背景的View
@@ -117,9 +117,14 @@ namespace OneKeyShareSample
 
         private class CustomOnClickListener : Java.Lang.Object, IOnClickListener
         {
+            private Context context;
+            public CustomOnClickListener(Context context) {
+                this.context = context;
+            }
+
             public void OnClick(View v)
             {
-
+                Toast.MakeText(context, "此APPKEY仅供测试使用，且不定期失效，请到mob.com后台申请正式APPKEY", ToastLength.Short).Show();
             }
         }
 
