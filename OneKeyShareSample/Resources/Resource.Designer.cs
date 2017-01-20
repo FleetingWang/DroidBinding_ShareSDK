@@ -278,266 +278,266 @@ namespace OneKeyShareSample
 			// aapt resource value: 0x7f04005b
 			public const int app_derect_share = 2130968667;
 			
+			// aapt resource value: 0x7f040056
+			public const int app_name = 2130968662;
+			
 			// aapt resource value: 0x7f040000
-			public const int app_name = 2130968576;
+			public const int ssdk_alipay = 2130968576;
 			
 			// aapt resource value: 0x7f040001
-			public const int ssdk_alipay = 2130968577;
+			public const int ssdk_alipay_client_inavailable = 2130968577;
 			
 			// aapt resource value: 0x7f040002
-			public const int ssdk_alipay_client_inavailable = 2130968578;
+			public const int ssdk_alipaymoments = 2130968578;
 			
 			// aapt resource value: 0x7f040003
-			public const int ssdk_alipaymoments = 2130968579;
+			public const int ssdk_bluetooth = 2130968579;
 			
 			// aapt resource value: 0x7f040004
-			public const int ssdk_bluetooth = 2130968580;
+			public const int ssdk_douban = 2130968580;
 			
 			// aapt resource value: 0x7f040005
-			public const int ssdk_douban = 2130968581;
+			public const int ssdk_dropbox = 2130968581;
 			
 			// aapt resource value: 0x7f040006
-			public const int ssdk_dropbox = 2130968582;
+			public const int ssdk_email = 2130968582;
 			
 			// aapt resource value: 0x7f040007
-			public const int ssdk_email = 2130968583;
+			public const int ssdk_evernote = 2130968583;
 			
 			// aapt resource value: 0x7f040008
-			public const int ssdk_evernote = 2130968584;
+			public const int ssdk_facebook = 2130968584;
 			
 			// aapt resource value: 0x7f040009
-			public const int ssdk_facebook = 2130968585;
+			public const int ssdk_facebookmessenger = 2130968585;
 			
 			// aapt resource value: 0x7f04000a
-			public const int ssdk_facebookmessenger = 2130968586;
+			public const int ssdk_facebookmessenger_client_inavailable = 2130968586;
 			
 			// aapt resource value: 0x7f04000b
-			public const int ssdk_facebookmessenger_client_inavailable = 2130968587;
+			public const int ssdk_flickr = 2130968587;
 			
 			// aapt resource value: 0x7f04000c
-			public const int ssdk_flickr = 2130968588;
+			public const int ssdk_foursquare = 2130968588;
 			
 			// aapt resource value: 0x7f04000d
-			public const int ssdk_foursquare = 2130968589;
+			public const int ssdk_google_plus_client_inavailable = 2130968589;
 			
 			// aapt resource value: 0x7f04000e
-			public const int ssdk_google_plus_client_inavailable = 2130968590;
+			public const int ssdk_googleplus = 2130968590;
 			
 			// aapt resource value: 0x7f04000f
-			public const int ssdk_googleplus = 2130968591;
+			public const int ssdk_instagram = 2130968591;
 			
 			// aapt resource value: 0x7f040010
-			public const int ssdk_instagram = 2130968592;
+			public const int ssdk_instagram_client_inavailable = 2130968592;
 			
 			// aapt resource value: 0x7f040011
-			public const int ssdk_instagram_client_inavailable = 2130968593;
-			
-			// aapt resource value: 0x7f040012
-			public const int ssdk_instapager_email_or_password_incorrect = 2130968594;
-			
-			// aapt resource value: 0x7f04004a
-			public const int ssdk_instapager_login_html = 2130968650;
-			
-			// aapt resource value: 0x7f040013
-			public const int ssdk_instapaper = 2130968595;
-			
-			// aapt resource value: 0x7f040014
-			public const int ssdk_instapaper_email = 2130968596;
-			
-			// aapt resource value: 0x7f040015
-			public const int ssdk_instapaper_login = 2130968597;
-			
-			// aapt resource value: 0x7f040016
-			public const int ssdk_instapaper_logining = 2130968598;
-			
-			// aapt resource value: 0x7f040017
-			public const int ssdk_instapaper_pwd = 2130968599;
-			
-			// aapt resource value: 0x7f040018
-			public const int ssdk_kaixin = 2130968600;
-			
-			// aapt resource value: 0x7f040019
-			public const int ssdk_kakaostory = 2130968601;
-			
-			// aapt resource value: 0x7f04001a
-			public const int ssdk_kakaostory_client_inavailable = 2130968602;
-			
-			// aapt resource value: 0x7f04001b
-			public const int ssdk_kakaotalk = 2130968603;
-			
-			// aapt resource value: 0x7f04001c
-			public const int ssdk_kakaotalk_client_inavailable = 2130968604;
-			
-			// aapt resource value: 0x7f04001d
-			public const int ssdk_laiwang = 2130968605;
-			
-			// aapt resource value: 0x7f04001e
-			public const int ssdk_laiwang_client_inavailable = 2130968606;
-			
-			// aapt resource value: 0x7f04001f
-			public const int ssdk_laiwangmoments = 2130968607;
-			
-			// aapt resource value: 0x7f040020
-			public const int ssdk_line = 2130968608;
-			
-			// aapt resource value: 0x7f040021
-			public const int ssdk_line_client_inavailable = 2130968609;
-			
-			// aapt resource value: 0x7f040022
-			public const int ssdk_linkedin = 2130968610;
-			
-			// aapt resource value: 0x7f040023
-			public const int ssdk_mingdao = 2130968611;
-			
-			// aapt resource value: 0x7f040024
-			public const int ssdk_mingdao_share_content = 2130968612;
-			
-			// aapt resource value: 0x7f040025
-			public const int ssdk_neteasemicroblog = 2130968613;
-			
-			// aapt resource value: 0x7f04004b
-			public const int ssdk_oks_cancel = 2130968651;
-			
-			// aapt resource value: 0x7f04004c
-			public const int ssdk_oks_confirm = 2130968652;
-			
-			// aapt resource value: 0x7f04004d
-			public const int ssdk_oks_contacts = 2130968653;
-			
-			// aapt resource value: 0x7f04004e
-			public const int ssdk_oks_multi_share = 2130968654;
-			
-			// aapt resource value: 0x7f04004f
-			public const int ssdk_oks_pull_to_refresh = 2130968655;
-			
-			// aapt resource value: 0x7f040050
-			public const int ssdk_oks_refreshing = 2130968656;
-			
-			// aapt resource value: 0x7f040051
-			public const int ssdk_oks_release_to_refresh = 2130968657;
-			
-			// aapt resource value: 0x7f040052
-			public const int ssdk_oks_share = 2130968658;
-			
-			// aapt resource value: 0x7f040053
-			public const int ssdk_oks_share_canceled = 2130968659;
-			
-			// aapt resource value: 0x7f040054
-			public const int ssdk_oks_share_completed = 2130968660;
-			
-			// aapt resource value: 0x7f040055
-			public const int ssdk_oks_share_failed = 2130968661;
-			
-			// aapt resource value: 0x7f040056
-			public const int ssdk_oks_sharing = 2130968662;
-			
-			// aapt resource value: 0x7f040026
-			public const int ssdk_pinterest = 2130968614;
-			
-			// aapt resource value: 0x7f040027
-			public const int ssdk_pinterest_client_inavailable = 2130968615;
-			
-			// aapt resource value: 0x7f040028
-			public const int ssdk_plurk = 2130968616;
-			
-			// aapt resource value: 0x7f040029
-			public const int ssdk_pocket = 2130968617;
-			
-			// aapt resource value: 0x7f04002a
-			public const int ssdk_qq = 2130968618;
-			
-			// aapt resource value: 0x7f04002b
-			public const int ssdk_qq_client_inavailable = 2130968619;
-			
-			// aapt resource value: 0x7f04002c
-			public const int ssdk_qzone = 2130968620;
-			
-			// aapt resource value: 0x7f04002d
-			public const int ssdk_renren = 2130968621;
-			
-			// aapt resource value: 0x7f04002e
-			public const int ssdk_share_to_facebook = 2130968622;
-			
-			// aapt resource value: 0x7f04002f
-			public const int ssdk_share_to_googleplus = 2130968623;
-			
-			// aapt resource value: 0x7f040030
-			public const int ssdk_share_to_mingdao = 2130968624;
-			
-			// aapt resource value: 0x7f040031
-			public const int ssdk_share_to_qq = 2130968625;
-			
-			// aapt resource value: 0x7f040032
-			public const int ssdk_share_to_qzone = 2130968626;
-			
-			// aapt resource value: 0x7f040033
-			public const int ssdk_share_to_qzone_default = 2130968627;
-			
-			// aapt resource value: 0x7f040034
-			public const int ssdk_shortmessage = 2130968628;
-			
-			// aapt resource value: 0x7f040035
-			public const int ssdk_sinaweibo = 2130968629;
-			
-			// aapt resource value: 0x7f040036
-			public const int ssdk_sohumicroblog = 2130968630;
-			
-			// aapt resource value: 0x7f040037
-			public const int ssdk_sohusuishenkan = 2130968631;
-			
-			// aapt resource value: 0x7f040038
-			public const int ssdk_tencentweibo = 2130968632;
-			
-			// aapt resource value: 0x7f040039
-			public const int ssdk_tumblr = 2130968633;
-			
-			// aapt resource value: 0x7f04003a
-			public const int ssdk_twitter = 2130968634;
-			
-			// aapt resource value: 0x7f04003b
-			public const int ssdk_use_login_button = 2130968635;
-			
-			// aapt resource value: 0x7f04003c
-			public const int ssdk_vkontakte = 2130968636;
-			
-			// aapt resource value: 0x7f04003d
-			public const int ssdk_website = 2130968637;
-			
-			// aapt resource value: 0x7f04003e
-			public const int ssdk_wechat = 2130968638;
-			
-			// aapt resource value: 0x7f04003f
-			public const int ssdk_wechat_client_inavailable = 2130968639;
-			
-			// aapt resource value: 0x7f040040
-			public const int ssdk_wechatfavorite = 2130968640;
-			
-			// aapt resource value: 0x7f040041
-			public const int ssdk_wechatmoments = 2130968641;
-			
-			// aapt resource value: 0x7f040042
-			public const int ssdk_weibo_oauth_regiseter = 2130968642;
-			
-			// aapt resource value: 0x7f040043
-			public const int ssdk_weibo_upload_content = 2130968643;
-			
-			// aapt resource value: 0x7f040044
-			public const int ssdk_whatsapp = 2130968644;
-			
-			// aapt resource value: 0x7f040045
-			public const int ssdk_whatsapp_client_inavailable = 2130968645;
-			
-			// aapt resource value: 0x7f040046
-			public const int ssdk_yixin = 2130968646;
-			
-			// aapt resource value: 0x7f040047
-			public const int ssdk_yixin_client_inavailable = 2130968647;
-			
-			// aapt resource value: 0x7f040048
-			public const int ssdk_yixinmoments = 2130968648;
+			public const int ssdk_instapager_email_or_password_incorrect = 2130968593;
 			
 			// aapt resource value: 0x7f040049
-			public const int ssdk_youdao = 2130968649;
+			public const int ssdk_instapager_login_html = 2130968649;
+			
+			// aapt resource value: 0x7f040012
+			public const int ssdk_instapaper = 2130968594;
+			
+			// aapt resource value: 0x7f040013
+			public const int ssdk_instapaper_email = 2130968595;
+			
+			// aapt resource value: 0x7f040014
+			public const int ssdk_instapaper_login = 2130968596;
+			
+			// aapt resource value: 0x7f040015
+			public const int ssdk_instapaper_logining = 2130968597;
+			
+			// aapt resource value: 0x7f040016
+			public const int ssdk_instapaper_pwd = 2130968598;
+			
+			// aapt resource value: 0x7f040017
+			public const int ssdk_kaixin = 2130968599;
+			
+			// aapt resource value: 0x7f040018
+			public const int ssdk_kakaostory = 2130968600;
+			
+			// aapt resource value: 0x7f040019
+			public const int ssdk_kakaostory_client_inavailable = 2130968601;
+			
+			// aapt resource value: 0x7f04001a
+			public const int ssdk_kakaotalk = 2130968602;
+			
+			// aapt resource value: 0x7f04001b
+			public const int ssdk_kakaotalk_client_inavailable = 2130968603;
+			
+			// aapt resource value: 0x7f04001c
+			public const int ssdk_laiwang = 2130968604;
+			
+			// aapt resource value: 0x7f04001d
+			public const int ssdk_laiwang_client_inavailable = 2130968605;
+			
+			// aapt resource value: 0x7f04001e
+			public const int ssdk_laiwangmoments = 2130968606;
+			
+			// aapt resource value: 0x7f04001f
+			public const int ssdk_line = 2130968607;
+			
+			// aapt resource value: 0x7f040020
+			public const int ssdk_line_client_inavailable = 2130968608;
+			
+			// aapt resource value: 0x7f040021
+			public const int ssdk_linkedin = 2130968609;
+			
+			// aapt resource value: 0x7f040022
+			public const int ssdk_mingdao = 2130968610;
+			
+			// aapt resource value: 0x7f040023
+			public const int ssdk_mingdao_share_content = 2130968611;
+			
+			// aapt resource value: 0x7f040024
+			public const int ssdk_neteasemicroblog = 2130968612;
+			
+			// aapt resource value: 0x7f04004a
+			public const int ssdk_oks_cancel = 2130968650;
+			
+			// aapt resource value: 0x7f04004b
+			public const int ssdk_oks_confirm = 2130968651;
+			
+			// aapt resource value: 0x7f04004c
+			public const int ssdk_oks_contacts = 2130968652;
+			
+			// aapt resource value: 0x7f04004d
+			public const int ssdk_oks_multi_share = 2130968653;
+			
+			// aapt resource value: 0x7f04004e
+			public const int ssdk_oks_pull_to_refresh = 2130968654;
+			
+			// aapt resource value: 0x7f04004f
+			public const int ssdk_oks_refreshing = 2130968655;
+			
+			// aapt resource value: 0x7f040050
+			public const int ssdk_oks_release_to_refresh = 2130968656;
+			
+			// aapt resource value: 0x7f040051
+			public const int ssdk_oks_share = 2130968657;
+			
+			// aapt resource value: 0x7f040052
+			public const int ssdk_oks_share_canceled = 2130968658;
+			
+			// aapt resource value: 0x7f040053
+			public const int ssdk_oks_share_completed = 2130968659;
+			
+			// aapt resource value: 0x7f040054
+			public const int ssdk_oks_share_failed = 2130968660;
+			
+			// aapt resource value: 0x7f040055
+			public const int ssdk_oks_sharing = 2130968661;
+			
+			// aapt resource value: 0x7f040025
+			public const int ssdk_pinterest = 2130968613;
+			
+			// aapt resource value: 0x7f040026
+			public const int ssdk_pinterest_client_inavailable = 2130968614;
+			
+			// aapt resource value: 0x7f040027
+			public const int ssdk_plurk = 2130968615;
+			
+			// aapt resource value: 0x7f040028
+			public const int ssdk_pocket = 2130968616;
+			
+			// aapt resource value: 0x7f040029
+			public const int ssdk_qq = 2130968617;
+			
+			// aapt resource value: 0x7f04002a
+			public const int ssdk_qq_client_inavailable = 2130968618;
+			
+			// aapt resource value: 0x7f04002b
+			public const int ssdk_qzone = 2130968619;
+			
+			// aapt resource value: 0x7f04002c
+			public const int ssdk_renren = 2130968620;
+			
+			// aapt resource value: 0x7f04002d
+			public const int ssdk_share_to_facebook = 2130968621;
+			
+			// aapt resource value: 0x7f04002e
+			public const int ssdk_share_to_googleplus = 2130968622;
+			
+			// aapt resource value: 0x7f04002f
+			public const int ssdk_share_to_mingdao = 2130968623;
+			
+			// aapt resource value: 0x7f040030
+			public const int ssdk_share_to_qq = 2130968624;
+			
+			// aapt resource value: 0x7f040031
+			public const int ssdk_share_to_qzone = 2130968625;
+			
+			// aapt resource value: 0x7f040032
+			public const int ssdk_share_to_qzone_default = 2130968626;
+			
+			// aapt resource value: 0x7f040033
+			public const int ssdk_shortmessage = 2130968627;
+			
+			// aapt resource value: 0x7f040034
+			public const int ssdk_sinaweibo = 2130968628;
+			
+			// aapt resource value: 0x7f040035
+			public const int ssdk_sohumicroblog = 2130968629;
+			
+			// aapt resource value: 0x7f040036
+			public const int ssdk_sohusuishenkan = 2130968630;
+			
+			// aapt resource value: 0x7f040037
+			public const int ssdk_tencentweibo = 2130968631;
+			
+			// aapt resource value: 0x7f040038
+			public const int ssdk_tumblr = 2130968632;
+			
+			// aapt resource value: 0x7f040039
+			public const int ssdk_twitter = 2130968633;
+			
+			// aapt resource value: 0x7f04003a
+			public const int ssdk_use_login_button = 2130968634;
+			
+			// aapt resource value: 0x7f04003b
+			public const int ssdk_vkontakte = 2130968635;
+			
+			// aapt resource value: 0x7f04003c
+			public const int ssdk_website = 2130968636;
+			
+			// aapt resource value: 0x7f04003d
+			public const int ssdk_wechat = 2130968637;
+			
+			// aapt resource value: 0x7f04003e
+			public const int ssdk_wechat_client_inavailable = 2130968638;
+			
+			// aapt resource value: 0x7f04003f
+			public const int ssdk_wechatfavorite = 2130968639;
+			
+			// aapt resource value: 0x7f040040
+			public const int ssdk_wechatmoments = 2130968640;
+			
+			// aapt resource value: 0x7f040041
+			public const int ssdk_weibo_oauth_regiseter = 2130968641;
+			
+			// aapt resource value: 0x7f040042
+			public const int ssdk_weibo_upload_content = 2130968642;
+			
+			// aapt resource value: 0x7f040043
+			public const int ssdk_whatsapp = 2130968643;
+			
+			// aapt resource value: 0x7f040044
+			public const int ssdk_whatsapp_client_inavailable = 2130968644;
+			
+			// aapt resource value: 0x7f040045
+			public const int ssdk_yixin = 2130968645;
+			
+			// aapt resource value: 0x7f040046
+			public const int ssdk_yixin_client_inavailable = 2130968646;
+			
+			// aapt resource value: 0x7f040047
+			public const int ssdk_yixinmoments = 2130968647;
+			
+			// aapt resource value: 0x7f040048
+			public const int ssdk_youdao = 2130968648;
 			
 			static String()
 			{
