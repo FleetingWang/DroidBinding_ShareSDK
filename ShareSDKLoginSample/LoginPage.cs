@@ -117,7 +117,9 @@ namespace ShareSDKLoginSample
 
             plat.Complete += (sender, e) => {
                 // 填写处理注册信息的代码，返回true表示数据合法，注册页面可以关闭
-                Toast.MakeText(this, "登录成功。", ToastLength.Short).Show();
+                RunOnUiThread(() => {
+                    Toast.MakeText(this, "登录成功。", ToastLength.Short).Show();
+                });
             };
 
             plat.Error += (sender, e) => {
